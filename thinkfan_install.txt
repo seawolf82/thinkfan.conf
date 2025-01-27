@@ -29,8 +29,9 @@ hwmon /sys/devices/platform/coretemp.0/hwmon/hwmon9/temp5_input
 hwmon /sys/devices/platform/coretemp.0/hwmon/hwmon9/temp2_input
 hwmon /sys/devices/pci0000:00/0000:00:1d.2/0000:3d:00.0/nvme/nvme0/hwmon4/temp1_input
 hwmon /sys/devices/virtual/thermal/thermal_zone0/hwmon1/temp1_input
+hwmon /sys/devices/virtual/thermal/thermal_zone5/hwmon10/temp1_input
 hwmon /sys/devices/virtual/thermal/thermal_zone3/hwmon7/temp1_input
-hwmon /sys/devices/virtual/thermal/thermal_zone6/hwmon10/temp1_input
+
 
 
 
